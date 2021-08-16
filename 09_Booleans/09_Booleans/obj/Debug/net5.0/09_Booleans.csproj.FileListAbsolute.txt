@@ -1,0 +1,16 @@
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\bin\Debug\net5.0\09_Booleans.exe
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\bin\Debug\net5.0\09_Booleans.deps.json
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\bin\Debug\net5.0\09_Booleans.runtimeconfig.json
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\bin\Debug\net5.0\09_Booleans.runtimeconfig.dev.json
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\bin\Debug\net5.0\09_Booleans.dll
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\bin\Debug\net5.0\ref\09_Booleans.dll
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\bin\Debug\net5.0\09_Booleans.pdb
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.csproj.AssemblyReference.cache
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.AssemblyInfoInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.AssemblyInfo.cs
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.dll
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\ref\09_Booleans.dll
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.pdb
+C:\Users\Maruf\Desktop\C-Sharp\09_Booleans\09_Booleans\obj\Debug\net5.0\09_Booleans.genruntimeconfig.cache
