@@ -27,6 +27,40 @@ namespace _06_Operators
             p++;
             Console.WriteLine(p);
 
+            // decrement
+            int q = 5;
+            q++;
+            Console.WriteLine(q);
+
+            /* Assignment Operations
+            
+            
+            =
+            +=
+            -=
+            *=
+            /=
+            %=
+
+             */
+
+            /* Comparison operator
+            
+             * == 
+             * !=
+             * >
+             * <
+             * >=
+             * <=
+             
+             */
+
+            /* Logical Operators
+             * &&
+             * ||
+             * !
+             */
+
         }
     }
 }
