@@ -1,0 +1,16 @@
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\bin\Debug\net5.0\04_Type_Casting.exe
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\bin\Debug\net5.0\04_Type_Casting.deps.json
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\bin\Debug\net5.0\04_Type_Casting.runtimeconfig.json
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\bin\Debug\net5.0\04_Type_Casting.runtimeconfig.dev.json
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\bin\Debug\net5.0\04_Type_Casting.dll
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\bin\Debug\net5.0\ref\04_Type_Casting.dll
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\bin\Debug\net5.0\04_Type_Casting.pdb
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.csproj.AssemblyReference.cache
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.AssemblyInfoInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.AssemblyInfo.cs
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.dll
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\ref\04_Type_Casting.dll
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.pdb
+C:\Users\Maruf\Desktop\C-Sharp\04_Type_Casting\04_Type_Casting\obj\Debug\net5.0\04_Type_Casting.genruntimeconfig.cache
