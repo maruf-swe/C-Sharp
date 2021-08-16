@@ -1,0 +1,16 @@
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\bin\Debug\net5.0\06_Operators.exe
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\bin\Debug\net5.0\06_Operators.deps.json
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\bin\Debug\net5.0\06_Operators.runtimeconfig.json
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\bin\Debug\net5.0\06_Operators.runtimeconfig.dev.json
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\bin\Debug\net5.0\06_Operators.dll
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\bin\Debug\net5.0\ref\06_Operators.dll
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\bin\Debug\net5.0\06_Operators.pdb
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.csproj.AssemblyReference.cache
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.AssemblyInfoInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.AssemblyInfo.cs
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.dll
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\ref\06_Operators.dll
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.pdb
+C:\Users\Maruf\Desktop\C-Sharp\06_Operators\06_Operators\obj\Debug\net5.0\06_Operators.genruntimeconfig.cache
