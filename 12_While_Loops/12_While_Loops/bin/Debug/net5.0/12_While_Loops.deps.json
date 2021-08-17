@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "12_While_Loops/1.0.0": {
+        "runtime": {
+          "12_While_Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12_While_Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

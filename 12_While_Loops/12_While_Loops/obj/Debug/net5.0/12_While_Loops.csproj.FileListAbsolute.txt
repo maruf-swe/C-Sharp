@@ -1,0 +1,16 @@
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\bin\Debug\net5.0\12_While_Loops.exe
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\bin\Debug\net5.0\12_While_Loops.deps.json
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\bin\Debug\net5.0\12_While_Loops.runtimeconfig.json
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\bin\Debug\net5.0\12_While_Loops.runtimeconfig.dev.json
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\bin\Debug\net5.0\12_While_Loops.dll
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\bin\Debug\net5.0\ref\12_While_Loops.dll
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\bin\Debug\net5.0\12_While_Loops.pdb
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.csproj.AssemblyReference.cache
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.AssemblyInfoInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.AssemblyInfo.cs
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.dll
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\ref\12_While_Loops.dll
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.pdb
+C:\Users\Maruf\Desktop\C-Sharp\12_While_Loops\12_While_Loops\obj\Debug\net5.0\12_While_Loops.genruntimeconfig.cache
