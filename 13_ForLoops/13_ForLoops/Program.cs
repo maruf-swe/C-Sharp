@@ -6,7 +6,18 @@ namespace _13_ForLoops
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Hello World!");
+            }
+            for (int i = 0; i < 50; i = i + 2)
+            {
+                Console.WriteLine("Hello World!");
+                if (i == 30)
+                {
+                    break;
+                }
+            }
         }
     }
 }
